@@ -1,0 +1,11 @@
+#!/bin/sh
+ext_degree=11
+nb_errors=32
+if [ $1 ] ; then ext_degree=$1 ; fi
+if [ $2 ] ; then nb_errors=$2 ; fi
+if [ $3 ] ; then reduc=$3 ; fi
+if [ $4 ] ; then cwlen=$4 ; fi
+make veryclean
+make genparams
+./genparams $ext_degree $nb_errors $reduc $cwlen
+make depend

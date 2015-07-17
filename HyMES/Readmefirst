@@ -1,0 +1,17 @@
+Wednesday May 28 2008 
+
+This is the first version of our implementation. We call it HyMES-Beta-0 version.
+
+This is rather a tool than a software. The results we produced are created by it.
+
+
+This programme has been tested in Pentium-III, Pentium-IV and core 2-duo machines all running in 32 bit linux operating system architectures. 
+
+
+The authors are Bhaskar Biswas and Nicolas Sendrier (bhaskar.biswas@inria.fr; nicolas.sendrier@inria.fr).
+
+
+The licence is Lesser GPL, you can get a copy along with (licence.txt).
+
+
+Please send us feed-backs and/or opinions.
